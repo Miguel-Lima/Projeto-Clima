@@ -4,6 +4,4 @@
 
 
 # Completed
-HTML Structure 100% Finished;
-CSS 100% Completed;
-JS 100% Finished;
+
