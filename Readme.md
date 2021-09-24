@@ -1,3 +1,4 @@
+# Climate weather project
 
 <div align="center">
   
@@ -5,6 +6,20 @@
 
 </div>
 
+## ⛅ Technologies 
+ - ✔️ Javascript
+ - ✔️ CSS
+ - ✔️ HTML
 
-# Completed
+<br>
+
+# About this project
+ > - This project will work with the weather climate of the region.
+ > - Made a framework with HTML and CSS adaptable to store the information in the "DIV".
+ > - Contains an API that has been inserted into your javascript file to search for real-time weather information.
+ > - Além de oferecer informações do clima também será possível receber dados do Vento em KM/H da região.
+
+<br>
+
+# Project Complete 🌄 💥
 
