@@ -15,7 +15,7 @@
 
 # About this project
  > - This project will work with the weather climate of the region.
- > - Made a framework with HTML and CSS adaptable to store the information in the "DIV".
+ > - Made a structure with HTML and CSS adaptable to store the information in the "DIV".
  > - Contains an API that has been inserted into your javascript file to search for real-time weather information.
  > - In addition to providing weather information, it will also be possible to receive Wind data in KM/H for the region.
 
